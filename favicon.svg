@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <circle cx="128" cy="128" r="128" fill="#000000"/>
+  <circle cx="128" cy="128" r="100" fill="none" stroke="#F5A800" stroke-width="16"/>
+  <text x="128" y="135" font-family="Arial, sans-serif" font-size="80" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">AZ</text>
+  <path d="M 118 160 L 138 160 L 138 180 L 118 180 Z M 123 155 L 133 155 L 133 165 L 123 165 Z" fill="#FFFFFF"/>
+</svg>
