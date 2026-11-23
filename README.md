@@ -1,10 +1,15 @@
-# Knowledge-Is-Power
+﻿# AME Zion University — Nimba Extension Campus
 
-Study to improve yourself
+Static website for the Nimba Extension Campus. The exported site is in the repository root and requires no build step.
 
-## AME Zion University — Nimba Extension Campus
+## Publish with GitHub Pages
 
-Static website for the AME Zion University Nimba Extension Campus. The published site files are at the repository root; `index.html` is the homepage.
+1. Push the repository contents to GitHub.
+2. In the repository, open **Settings → Pages**.
+3. Under **Build and deployment**, select **Deploy from a branch**, choose `main` (or your publishing branch) and `/ (root)`, then save.
+4. Wait for the Pages deployment. The site works on a repository URL (`username.github.io/repository/`) and on a custom domain.
+
+Keep the `_next`, `images`, and page folders at the repository root, along with `github-pages.js` and `site-enhancements.js`.
 
 ## Pages
 
@@ -14,5 +19,3 @@ Static website for the AME Zion University Nimba Extension Campus. The published
 - Campus Life: `/campus-life/`
 - Admissions: `/admissions/`
 - Visit: `/visit/`
-
-The website is exported HTML, CSS, JavaScript, and image assets. No build step is required. Upload or publish the repository root to a static web host. Keep the `_next` and `images` folders and `site-enhancements.js` alongside the HTML pages.
